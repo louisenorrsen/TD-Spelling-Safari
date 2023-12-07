@@ -1,0 +1,73 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background-color: #4e7b4d;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100dvh;
+	font-family: 'Roboto', sans-serif;
+	color: #17271a;
+}
+
+game-settings {
+	background-image: url(../assets/SpellingSafari_splash_screen.webp);
+	background-size: 90%;
+	height: 600px;
+	width: 900px;
+	background-color: #4e7b4d;
+	background-position: center;
+	background-repeat: no-repeat;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+game-screen {
+	display: none;
+	flex-direction: column;
+	background-image: url(../assets/game_screen.webp);
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: hsl(119, 23%, 39%);
+	height: 600px;
+	width: 900px;
+	justify-content: space-around;
+	align-items: center;
+	gap: 10px;
+}
+
+congratulations-screen {
+	position: absolute;
+	display: none;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 20px;
+	color: #e8f8d1;
+	height: 100dvh;
+	width: 100dvw;
+	background-color: hsla(119, 23%, 10%, 0.9);
+    color: #141f14;
+    text-align: center;
+}
+
+gameover-screen {
+	position: absolute;
+	display: none;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 20px;
+	color: #e8f8d1;
+	height: 100dvh;
+	width: 100dvw;
+	background-color: hsla(119, 23%, 10%, 0.9);
+    color: #141f14;
+    text-align: center;
+}

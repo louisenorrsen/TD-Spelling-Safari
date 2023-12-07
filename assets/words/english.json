@@ -1,0 +1,34 @@
+[
+    {
+        "word": "dog",
+        "image": "dog.svg"
+    },
+    {
+        "word": "sun",
+        "image": "sun.svg"
+    },
+    {
+        "word": "bird",
+        "image": "bird.svg"
+    },
+    {
+        "word": "pig",
+        "image": "gris.svg"
+    },
+    {
+        "word": "bus",
+        "image": "bus.svg"
+    },
+    {
+        "word": "car",
+        "image": "car.svg"
+    },
+    {
+        "word": "bed",
+        "image": "bed.svg"
+    },
+    {
+        "word": "box",
+        "image": "box.svg"
+    }
+]

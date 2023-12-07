@@ -1,0 +1,34 @@
+[
+    {
+        "word": "apa",
+        "image": "apa.svg"
+    }, 
+    {
+        "word": "bok",
+        "image": "bok.svg"
+    },
+    {
+        "word": "eld",
+        "image": "eld.svg"
+    }, 
+    {
+        "word": "fot",
+        "image": "fot.svg"
+    }, 
+    {
+        "word": "gris",
+        "image": "gris.svg"
+    }, 
+    {
+        "word": "myra",
+        "image": "myra.svg"
+    }, 
+    {
+        "word": "pil",
+        "image": "pil.svg"
+    }, 
+    {
+        "word": "sax",
+        "image": "sax.svg"
+    }
+]
