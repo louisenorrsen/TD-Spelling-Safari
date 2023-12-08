@@ -23,6 +23,10 @@ class Congratulations extends HTMLElement {
                     background-color: #D0FFD0;
                     max-width: 70%;
                     box-shadow: 6px 6px 5px rgba(0, 0, 0, 0.25);
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
                 }
 
                 .congrats-container {
@@ -41,7 +45,7 @@ class Congratulations extends HTMLElement {
                 }
 
                 button {
-                    background-color: #4E7B4D;
+                    background-color: #385837;
                     border: none;
                     color: #e8f8d1;
                     font-size: 1.5rem;
@@ -51,7 +55,7 @@ class Congratulations extends HTMLElement {
                     justify-content: center;
                     align-items: center;
                     cursor: pointer;
-                    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
                     margin: 0 auto;
                   }
             </style>

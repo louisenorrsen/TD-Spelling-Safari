@@ -71,3 +71,14 @@ gameover-screen {
     color: #141f14;
     text-align: center;
 }
+
+@media screen and (max-width:500px) {
+	game-settings {
+		background-image: url(../assets/SpellingSafari_small.webp);
+	}
+
+	game-screen {
+		background-image: url(../assets/game_screen_small.webp);
+		background-size: 70%;
+	}
+}

@@ -66,7 +66,7 @@ class GameSettings extends HTMLElement {
             }
             @media screen and (max-width: 400px) {
                 .play-button {
-                    max-height: 10%;
+                    max-height: 5%;
                 }
                 button {
                     height: 50%;
@@ -78,10 +78,10 @@ class GameSettings extends HTMLElement {
             Choose language
             <div>
                 <img src="./assets/swedish.svg" alt="swedish flag" id="swedish-flag" class="flag-button">
-                <img src="./assets/english.png" alt="english flag" id="english-flag" class="flag-button">
+                <img src="./assets/english.webp" alt="english flag" id="english-flag" class="flag-button">
             </div>
         </div>
-        <img class="play-button" id="play-button" src="./assets/safariknapp-svg.svg" alt="play button">
+        <img class="play-button" id="play-button" src="./assets/safariknapp.svg" alt="play button">
         <div class='button-container'>
             <button id="about-button">About</button>
             <button id="rules-button">Rules</button>

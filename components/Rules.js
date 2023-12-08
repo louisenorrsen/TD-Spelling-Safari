@@ -30,7 +30,7 @@ class Rules extends HTMLElement {
                     max-width: 70%;
                 }
                 button {
-                    background-color: #4E7B4D;
+                    background-color: #385837;
                     border: none;
                     color: #e8f8d1;
                     font-size: 1.5rem;

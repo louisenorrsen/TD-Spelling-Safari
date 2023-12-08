@@ -40,7 +40,6 @@ const checkIfCorrect = () => {
 		}
 	}
 	if (correctLetters === currentWord.length && arrayOfWords.length > 1) {
-		tryagainButton.style.display = 'block'
 		nextButton.style.display = 'block'
 		score++
 		scoreContainer.textContent = `SCORE: ${score}`

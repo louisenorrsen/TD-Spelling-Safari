@@ -26,7 +26,7 @@ class SplashScreen extends HTMLElement {
                     background-image: url('assets/game_screen.webp');
                     background-position: center;
                     background-repeat: no-repeat;
-                    background-size: 100%;
+                    background-size: 90%;
                 }
 
                 .loader {
